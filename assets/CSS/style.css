@@ -19,4 +19,28 @@ h1 {
 }
 .nav {
     float: right;
+    color: white;
+    font-family: 'Kirang Haerang', cursive;
+
+}
+/* CSS FOR THE BLOG SPACE IS RIIIIGHT HERE */
+.containerImgs {
+    width: 200px;
+    height: 200px;
+    position: fixed;
+}
+#juiceBox {
+    top: 60%
+}
+#kidsText {
+    left: 82%;
+    top: 60%
+}
+#coffeeCup {
+    left: 82%;
+}
+#blogSpace {
+    margin: 0 auto;
+    width: 61%;
+    border: solid 2px;
 }
