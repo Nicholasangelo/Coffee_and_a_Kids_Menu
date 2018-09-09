@@ -1,0 +1,22 @@
+#navSpace {
+    background-color: black;
+    padding: 2%;
+}
+#adSpace {
+    background-color: black;
+    padding: 2%;
+}
+#logoLarge {
+    height: 34em;
+    position: relative;
+    left: 33%;
+}
+h1 {
+    color: white;
+    font-family: 'Kirang Haerang', cursive;
+    top: 1em;
+    position: relative;
+}
+.nav {
+    float: right;
+}
