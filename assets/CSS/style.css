@@ -5,6 +5,8 @@
 #adSpace {
     background-color: black;
     padding: 2%;
+    position: sticky;
+    top: 70%;
 }
 #logoLarge {
     height: 34em;
@@ -21,7 +23,12 @@ h1 {
     float: right;
     color: white;
     font-family: 'Kirang Haerang', cursive;
-
+}
+#blog {
+    padding: 0 1em;
+}
+#podcast {
+    padding: 0 2em;
 }
 /* CSS FOR THE BLOG SPACE IS RIIIIGHT HERE */
 .containerImgs {
@@ -43,4 +50,6 @@ h1 {
     margin: 0 auto;
     width: 61%;
     border: solid 2px;
+    height: 33em;
+    overflow: scroll;
 }
